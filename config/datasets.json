@@ -10,5 +10,11 @@
   "viral-50-usa": {
     "file": "data/viral-50-usa.csv",
     "description": "A sample Viral 50 USA music chart with track positions and artists"
+  },
+  "us-states": {
+    "file": "data/us-states.csv",
+    "description": "Interesting facts & statistics about the 50 United States"
   }
 }
+
+
